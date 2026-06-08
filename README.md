@@ -1,0 +1,2 @@
+# SMB-Credential-Attack-Lab-From-Setup-to-Defensive-Roadblock
+SMB credential attack lab against a Windows 10 target using Metasploit, covering brute force and password spraying techniques. The exercise included wordlist preparation, handling extraction issues, and testing authentication resilience. No valid credentials were found, revealing strong account lockout policies and a hardened SMB configuration.
